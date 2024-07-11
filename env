@@ -1,0 +1,1 @@
+DATABASE_URL = postgresql://postgres:Lancer528!@localhost:5432/internet_shop
